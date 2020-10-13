@@ -1,4 +1,3 @@
 # Hello-World
-This is Ryan and it's my first day to the Github,wish everthing goes well.
-KB
-duncan
+# what do you want?
+# maybe we can change the world
